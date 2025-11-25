@@ -46,7 +46,7 @@ Código que introduce el concepto de **variables**, tipos de datos y asignacione
 ---
 
 ### 📂 5_Estructuras
-Contiene ejemplos de **estructuras de control** como condicionales (`if`, `else`) y ciclos (`for`, `while`).  
+Contiene ejemplos de **estructuras de control** como condicionales (`if`, `else`) y ciclos (`for`, `while`).
 📌 *Objetivo:* controlar el flujo lógico de los programas.
 
 ---
@@ -56,6 +56,17 @@ Ejercicios sobre **conversión de datos**: texto → número, número → texto,
 📌 *Objetivo:* aprender a convertir tipos para evitar errores de ejecución.
 
 ---
+
+### 📂 7_Decisiones
+Ejercicios sobre **if-else-elif**: como condicionales (`if`, `else`) y ciclos (`for`, `while`).
+📌 *Objetivo:* aprender a controlar el flujo de un programa.
+
+---
+### 📂 8_Bucles
+Ejercicios sobre **for-while**: como condicionales (`if`, `else`) y ciclos (`for`, `while`).
+📌 *Objetivo:* aprender a usar bubcles y ciclos.
+
+
 
 ## 🧠 Propósito del repositorio
 Este repositorio sirve para:
