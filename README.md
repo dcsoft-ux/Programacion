@@ -19,49 +19,57 @@ Programacion
 
 
 ### 📂 1_Comentrarios
-Contiene ejemplos que enseñan la **sintaxis de comentarios** en el lenguaje utilizado.  
+Contiene ejemplos que enseñan la **sintaxis de comentarios** en el lenguaje utilizado.
+
 📌 *Objetivo:* entender cómo documentar código y agregar notas para el programador.
 
 ---
 
 ### 📂 2_Impresiones
-Programas simples que muestran **salidas por consola**, usando `print()` u operaciones equivalentes.  
+Programas simples que muestran **salidas por consola**, usando `print()` u operaciones equivalentes.
+
 📌 *Objetivo:* aprender a mostrar resultados al usuario.
 
 ---
 
 ### 📂 3_Entradas
-Ejemplos de cómo solicitar datos al usuario mediante entrada estándar (`input()`).  
+Ejemplos de cómo solicitar datos al usuario mediante entrada estándar (`input()`).
+
 📌 *Objetivo:* capturar información y usarla en operaciones.
 
 ---
 
 ### 📂 4_Variables
-Código que introduce el concepto de **variables**, tipos de datos y asignaciones.  
+Código que introduce el concepto de **variables**, tipos de datos y asignaciones.
+
 📌 *Objetivo:* comprender cómo almacenar valores en memoria.
 
 ---
 
 ### 📂 5_Estructuras
 Contiene ejemplos de **estructuras de control** como condicionales (`if`, `else`) y ciclos (`for`, `while`).
+
 📌 *Objetivo:* controlar el flujo lógico de los programas.
 
 ---
 
 ### 📂 6_Casting
-Ejercicios sobre **conversión de datos**: texto → número, número → texto, etc.  
+Ejercicios sobre **conversión de datos**: texto → número, número → texto, etc.
+
 📌 *Objetivo:* aprender a convertir tipos para evitar errores de ejecución.
 
 ---
 
 ### 📂 7_Decisiones
 Ejercicios sobre **if-else-elif**: como condicionales (`if`, `else`) y ciclos (`for`, `while`).
+
 📌 *Objetivo:* aprender a controlar el flujo de un programa.
 
 ---
 
 ### 📂 8_Bucles
 Ejercicios sobre **for-while**: como condicionales (`if`, `else`) y ciclos (`for`, `while`).
+
 📌 *Objetivo:* aprender a usar bubcles y ciclos.
 
 ---
