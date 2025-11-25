@@ -1,16 +1,17 @@
-#➡️ Escribe un programa que pida al usuario su nombre y lo imprima letra por letra. Si encuentra la letra 'a', debe detener la impresión.
-#➡️ Solicita al usuario que ingrese su nombre
-#➡️ Itera sobre cada letra del nombre ingresado
-#➡️ Imprime cada letra por separado
-nombre = input("Nombre: ")
-#➡️ Itera sobre cada letra del nombre
-#➡️ Si la letra es 'a', detiene la impresión usando break
-#➡️ Imprime cada letra del nombre
-for letra in nombre:
-    #➡️ Imprime la letra actual
-    print(letra)
-    #➡️ Si la letra es 'a', detiene el bucle
-    #➡️ Usa break para salir del bucle cuando se encuentra 'a'
-    if letra == 'a':
-        #➡️ Detiene el bucle
-        break
+#➡️ Bucle while con else
+#➡️ Inicializa la variable respuesta con 's'
+#➡️ Mientras la respuesta sea 's', el bucle continuará ejecutándose
+#➡️ Solicita al usuario que ingrese si quiere seguir o no
+respuesta = 's'
+#➡️ Bucle while que se ejecuta mientras la respuesta sea 's'
+#➡️ Dentro del bucle, se pide al usuario que ingrese una nueva respuesta
+#➡️ Si la respuesta es diferente de 's', el bucle termina y se ejecuta el bloque else
+#➡️ Al salir del bucle, se imprime un mensaje de agradecimiento
+while respuesta == 's':
+    #➡️ Solicita al usuario que ingrese si quiere seguir
+    #➡️ Actualiza la variable respuesta con la entrada del usuario
+    respuesta = input("Quieres seguir? (s/n)")
+#➡️ Bloque else que se ejecuta cuando la condición del while ya no es verdadera
+else:
+    #➡️ Imprime un mensaje de agradecimiento
+    print("Gracias")

@@ -1,18 +1,18 @@
-#➡️ Ejemplo de uso de 'pass' en un bucle while
-#➡️ Mientras la respuesta sea 's', el bucle continuará ejecutándose
-#➡️ Dentro del bucle, no se realiza ninguna acción debido a 'pass'
-#➡️ Al salir del bucle, se imprime "pass"
-#➡️ Bucle while con 'pass'
-
-#➡️ Inicializa la variable respuesta con 's'
-respuesta = 's'
-#➡️ Bucle while que se ejecuta mientras la respuesta sea 's'
-#➡️ Dentro del bucle, no se realiza ninguna acción debido a 'pass'
-#➡️ Al salir del bucle, se imprime "pass"
-while respuesta == 's':
-    #➡️ No realiza ninguna acción
-    pass
+#➡️ Inicializa la variable monedas con el valor 5
+monedas = 5
+#➡️ Mientras haya monedas disponibles (monedas > 0)
+#➡️ Ejecuta el bloque de código dentro del while
+#➡️ Disminuye el número de monedas en 1 en cada iteración
+#➡️ Cuando no queden monedas, ejecuta el bloque de código dentro del else
+#➡️ Imprime el número de monedas restantes en cada iteración
+while monedas > 0:
+    #➡️ Imprime el número de monedas restantes
+    print(f"Tengo {monedas}")
+    #➡️ Disminuye el número de monedas en 1
+    #➡️ Actualiza el valor de monedas restando 1
+    monedas -= 1
 #➡️ Bloque else que se ejecuta cuando la condición del while ya no es verdadera
 else:
-    #➡️ Imprime "pass"
-    print("pass")
+    #➡️ Imprime que no quedan monedas
+    #➡️ Mensaje final cuando no quedan monedas
+    print("No tengo monedas")
