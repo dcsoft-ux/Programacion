@@ -12,4 +12,4 @@ apellido = input("Ingresa tu apellido: ")
 #➡️ Llamamos a la función nombre_completo y almacenamos el resultado en la variable completo
 completo = nombre_completo(nombre, apellido)
 #➡️ Imprimimos el nombre completo
-print("Tu nombre completo es:", completo)
+print(f"Tu nombre completo es: {completo}")
